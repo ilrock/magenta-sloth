@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: ''
     subtitle: ''
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: center
     image: images/smart_tax_law_v3_white_bg_square.png
     image_position: right
