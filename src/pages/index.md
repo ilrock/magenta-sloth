@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: ''
-    subtitle: Abogados muy guay
+    subtitle: ''
     actions:
       - label: ''
         url: /features
