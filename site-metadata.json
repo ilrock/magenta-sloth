@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/smart_tax_law_white_no_bg.png"
     },
     "footer": {
         "has_nav": true,
