@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    align: left
+    align: right
     image: images/smart_tax_law_v3_white_bg_square.png
     image_position: right
     has_background: true
