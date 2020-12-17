@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Smart Tax & Law
+    title: ''
     subtitle: Abogados muy guay
     actions:
       - label: Learn More
