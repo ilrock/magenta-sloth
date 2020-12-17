@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: Abogados muy guay
     actions:
-      - label: Learn More
+      - label: ''
         url: /features
         style: primary
       - label: Contact Us
