@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Smart Tax & Law
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Abogados muy guay
     actions:
       - label: Learn More
         url: /features
