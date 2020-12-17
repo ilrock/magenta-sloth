@@ -5,9 +5,6 @@ sections:
     title: ''
     subtitle: ''
     actions:
-      - label: ''
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
